@@ -42,7 +42,7 @@ As a result, the Grid dashboard item displays the sales of the _Chai_ product fr
 - [Dashboard for WinForms - How to customize the Data Source Wizard and invoke it in the DashboardViewer](https://github.com/DevExpress-Examples/Dashboard-Customize-ExtractDataSource-Wizard)
 
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-data-extract-filtering&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-dashboard-data-extract-filtering&~~~was_helpful=no)
 
